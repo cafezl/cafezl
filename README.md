@@ -1,10 +1,11 @@
 <div align="center">
   <h1>☕ Olá, eu sou o Café!</h1>
   <p>Estudante de programação, aprendendo na prática e criando projetos.</p>
+  <p>🖼️ <a href="./assets/galeria/README.md">Ver a galeria: 174 imagens do RAR + 5 Pins</a></p>
 </div>
 
 <div align="center">
-  <img src="./assets/personagens/naruto-anda.gif" width="120" alt="Naruto caminhando" />
+  <img src="./assets/personagens/naruto-anda.gif" height="100" alt="Naruto caminhando" />
   <img src="./assets/personagens/thorfinn-caminha.gif" width="120" alt="Thorfinn caminhando" />
   <img src="./assets/personagens/thors-sem-espada.gif" width="120" alt="Thors, de Vinland Saga" />
   <img src="./assets/personagens/marin-kitagawa.gif" width="120" alt="Marin Kitagawa" />
@@ -37,7 +38,7 @@
 
 ## Galeria
 
-Animes, personagens, jogos e desenhos que curto: [abrir a galeria](./assets/galeria/README.md).
+Animes, personagens, jogos e desenhos que curto: [abrir a galeria com 174 imagens do RAR + 5 Pins](./assets/galeria/README.md).
 
 <div align="center">
   <sub>Feito com café ☕ e curiosidade.</sub>
