@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <h1>☕ Olá, eu sou o Café!</h1>
+  <p>Estudante de programação, aprendendo na prática e criando projetos.</p>
+</div>
 
-<!--
-**cafezl/cafezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cafezl&theme=dark&hide_border=true&border_radius=10&locale=pt_BR" alt="Estatísticas de sequência de contribuições no GitHub" />
+</div>
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de programação.
+- 💻 Aprendendo e praticando C# e Lua em projetos pessoais e do curso.
+- ☕ Sempre tem espaço para uma ideia nova e uma xícara de café.
+
+## Tecnologias
+
+<p align="left">
+  <img alt="C#" title="C#" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="Lua" title="Lua" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+  <img alt="Visual Studio" title="Visual Studio" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+</p>
+
+## Projetos
+
+- [OPERADOR-DE-SISTEMAS-V3](https://github.com/cafezl/OPERADOR-DE-SISTEMAS-V3) — exercícios e aplicações em C# feitos no curso.
+- [cart-ride-nothing-around](https://github.com/cafezl/cart-ride-nothing-around) — projeto com scripts em Lua.
+
+<div align="center">
+  <sub>Feito com café ☕ e curiosidade.</sub>
+</div>
