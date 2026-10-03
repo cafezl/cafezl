@@ -4,6 +4,15 @@
 </div>
 
 <div align="center">
+  <img src="./assets/personagens/naruto-anda.gif" width="120" alt="Naruto caminhando" />
+  <img src="./assets/personagens/thorfinn-caminha.gif" width="120" alt="Thorfinn caminhando" />
+  <img src="./assets/personagens/thors-sem-espada.gif" width="120" alt="Thors, de Vinland Saga" />
+  <img src="./assets/personagens/marin-kitagawa.gif" width="120" alt="Marin Kitagawa" />
+</div>
+
+<p align="center"><sub>Naruto · Thorfinn · Thors · Marin Kitagawa</sub></p>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=cafezl&theme=dark&hide_border=true&border_radius=10&locale=pt_BR" alt="Estatísticas de sequência de contribuições no GitHub" />
 </div>
 
@@ -25,6 +34,10 @@
 
 - [OPERADOR-DE-SISTEMAS-V3](https://github.com/cafezl/OPERADOR-DE-SISTEMAS-V3) — exercícios e aplicações em C# feitos no curso.
 - [cart-ride-nothing-around](https://github.com/cafezl/cart-ride-nothing-around) — projeto com scripts em Lua.
+
+## Galeria
+
+Animes, personagens, jogos e desenhos que curto: [abrir a galeria](./assets/galeria/README.md).
 
 <div align="center">
   <sub>Feito com café ☕ e curiosidade.</sub>
